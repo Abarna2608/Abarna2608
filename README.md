@@ -8,12 +8,15 @@
 - Core Concepts: Data Structures & Algorithms
 - AI/ML: Machine Learning 
 
----
-Coding Profiles
-Leetcode:https://leetcode.com/u/Aparnaselvaraj/
-take you forward:https://takeuforward.org/profile/Aparna_Selvaraj
-##Leetcode Stats
+
+## Coding Profiles
+-Leetcode:https://leetcode.com/u/Aparnaselvaraj/
+-take you forward:https://takeuforward.org/profile/Aparna_Selvaraj
+
+## Leetcode Stats
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aparnaselvaraj?theme=dark&font=Encode%20Sans%20Expanded&ext=heatmap)
+---
 ## 🎯 Goals
 - Strengthen Data Structures & Algorithms
 - Build Machine Learning Projects
