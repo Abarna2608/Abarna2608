@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi I'm Abarna👋
+🎓 AIML student 
+💻 Interested in Machine Learning, Problem Solving and Software Development  
 
-<!--
-**Abarna2608/Abarna2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Programming: C, Java,c++
+- Web Development: HTML, CSS
+- Core Concepts: Data Structures & Algorithms
+- AI/ML: Machine Learning 
 
-Here are some ideas to get you started:
+---
+Coding Profiles
+Leetcode:https://leetcode.com/u/Aparnaselvaraj/
+take you forward:https://takeuforward.org/profile/Aparna_Selvaraj
+##Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aparnaselvaraj?theme=dark&font=Encode%20Sans%20Expanded&ext=heatmap)
+## 🎯 Goals
+- Strengthen Data Structures & Algorithms
+- Build Machine Learning Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
